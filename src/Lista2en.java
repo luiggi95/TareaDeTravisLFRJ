@@ -37,6 +37,8 @@ class CLista
       public void Menu() throws IOException  {
           
        Scanner entrada = new Scanner(System.in);
+          System.out.println("  ingenieria de software 2");
+          
         System.out.println("\n\n\t\t\tLista Doblemente Enlazada Circular");
         System.out.println("\n\n\t\t\t---------Menú Principal ---------");
         System.out.println("\t\t\t+ 1 Ingresar                       +");
